@@ -23,7 +23,9 @@ const Contact = () => {
                     </div>
                 </div>
             </div>
-            <button type="button" class="btn btn-danger">Enviar</button>
+            <button type="button" class="btn btn-danger">
+                Enviar
+            </button>
         </div>
     );
 };

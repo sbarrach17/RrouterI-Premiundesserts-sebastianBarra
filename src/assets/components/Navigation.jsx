@@ -24,9 +24,9 @@ const Navigation = () => {
                 </Nav>
             </Navbar.Collapse>
             <div className="text-white me-3" style={{ display: "flex", alignItems: "center" }}>
-  <FcLikePlaceholder className="fs-3 mb-2" />
-  <h6 className="fs-5">Happy Cake</h6>
-</div>
+                <FcLikePlaceholder className="fs-3 mb-2" />
+                <h6 className="fs-5">Happy Cake</h6>
+            </div>
         </Navbar>
     );
 };
